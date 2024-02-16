@@ -2,9 +2,11 @@
 layout: ../layout.astro
 ---
 
+# Benoît
+
 Tu incarnes la ville en ruine qui veut la peau d'Arnaud.
 
-# Capacité
+## Capacité
 Chaque tour tu peux :
 - Créer un éboulement sur Arnaud pour 1d10 dégâts (1d20+3)
 
