@@ -12,8 +12,7 @@ h6 {
 }
 
 h1 {
-  text-decoration: underline;
-  padding-bottom: 0.333em;
+  padding-bottom: 0.20em;
   border-bottom: 2px solid black;
 }
 
@@ -26,7 +25,7 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 8px;
 }
 
 a {
