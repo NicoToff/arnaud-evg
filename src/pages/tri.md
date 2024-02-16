@@ -2,10 +2,11 @@
 layout: ../layout.astro
 ---
 
-Tu incarnes un PNJ qui est un clone d'Arnaud.
+# Tri
+Tu incarnes un PNJ qui est un clone d'Arnaud. Tu es lui, mais tu n'es pas lui... Ou bien si ?
 
-# Capacité
-Chaque tour tu peux :
+## Capacités
+Chaque tour tu peux à la fois :
 - Créer quatre clones illusoires (réussite auto)
 - Attaquer Arnaud pour 1d8+3 dégâts psychiques (1d20+5)
 
