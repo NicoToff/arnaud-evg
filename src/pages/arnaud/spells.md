@@ -27,3 +27,5 @@ Tu invoques... quoi des chevaux ? Tum tutum... Ils sont beaux et rapides comme l
 
 ## Absorb Elements
 Tu es immunisé contre les dégâts élémentaires pendant 1 minute.
+
+[← Stats Arnaud](/arnaud)
