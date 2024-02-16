@@ -33,12 +33,6 @@ a {
   text-underline-offset: 0.25em;
 }
 
-ol,
-ul {
-  margin: 0;
-  padding: 0;
-}
-
 li {
   padding-bottom: 0.666rem;
 }
