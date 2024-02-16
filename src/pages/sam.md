@@ -2,9 +2,11 @@
 layout: ../layout.astro
 ---
 
+# Samir
+
 Tu incarnes l'esprit de la montagne. Elle veut la peau d'Arnaud et de ses amis. Elle est sans pitié et fera tout pour les briser.
 
-# Capacité
+## Capacité
 - Tu projettes des rochers sur Arnaud et ses amis : 2d6 dégâts (1d20+6)
 - Tu crées un blizzard : 2d8 dégâts de froid (1d20+4)
 
