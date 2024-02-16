@@ -2,20 +2,20 @@
 layout: ../layout.astro
 ---
 
-[arnaud](/arnaud)
+[Arnaud](/arnaud)
 
-[arti](/arti)
+[Arti](/arti)
 
-[ben](/ben)
+[Ben](/ben)
 
-[chris](/chris)
+[Chris](/chris)
 
-[gigi](/gigi)
+[Gigi](/gigi)
 
-[mich](/mich)
+[Mich](/mich)
 
-[nico](/nico)
+[Nico](/nico)
 
-[sam](/sam)
+[Sam](/sam)
 
-[tri](/tri)
+[Tri](/tri)
