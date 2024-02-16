@@ -2,20 +2,14 @@
 layout: ../layout.astro
 ---
 
-[Arnaud](/arnaud)
+# Arnaud's EVG
 
-[Arti](/arti)
-
-[Ben](/ben)
-
-[Chris](/chris)
-
-[Gigi](/gigi)
-
-[Mich](/mich)
-
-[Nico](/nico)
-
-[Sam](/sam)
-
-[Tri](/tri)
+- [Arnaud](/arnaud)
+- [Arti](/arti)
+- [Ben](/ben)
+- [Chris](/chris)
+- [Gigi](/gigi)
+- [Mich](/mich)
+- [Nico](/nico)
+- [Sam](/sam)
+- [Tri](/tri)

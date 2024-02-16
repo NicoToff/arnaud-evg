@@ -4,6 +4,7 @@ layout: ../layout.astro
 
 
 Gardien de la forêt
+
 # Capacité
 - Invocation de sangliers
 
