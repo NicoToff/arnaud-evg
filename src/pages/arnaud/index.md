@@ -4,7 +4,7 @@ layout: ../../layout.astro
 
 # Stats
 
-PV : 20
+PV : 11
 
 Physique : +1
 
