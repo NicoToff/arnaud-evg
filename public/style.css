@@ -8,7 +8,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Impact", serif;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1 {
+  text-decoration: underline;
+  text-underline-offset: 0.5em;
 }
 
 body {
@@ -25,11 +30,7 @@ body {
 
 a {
   color: #854612;
-  text-underline-offset: 0.2em;
-}
-
-a:hover {
-  text-decoration: underline;
+  text-underline-offset: 0.25em;
 }
 
 ol,
