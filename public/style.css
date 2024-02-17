@@ -1,5 +1,6 @@
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 h1,
@@ -8,11 +9,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 h1 {
-  padding-bottom: 0.20em;
+  padding-bottom: 0.2em;
   border-bottom: 2px solid black;
 }
 
@@ -33,6 +35,10 @@ a {
   text-underline-offset: 0.25em;
 }
 
+ul,
+ol {
+  list-style-type: circle;
+}
 li {
   padding-bottom: 0.666rem;
 }
