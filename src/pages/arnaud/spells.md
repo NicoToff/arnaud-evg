@@ -28,4 +28,7 @@ Tu invoques... quoi des chevaux ? Tum tutum... Ils sont beaux et rapides comme l
 ## Absorb Elements
 Tu es immunisé contre les dégâts élémentaires pendant 1 minute.
 
+## Planar Ally
+Tu invoques l'esprit d'un ami de ton plan originel pour te conseiller sur la marche à suivre.
+
 [← Stats Arnaud](/arnaud)
